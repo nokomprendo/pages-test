@@ -18,3 +18,6 @@ $$
 
 [source code](https://github.com/nokomprendo/pages-test)
 
+
+{% include lib/mathjax.html %}
+
