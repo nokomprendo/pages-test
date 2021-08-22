@@ -16,7 +16,7 @@ x_{21} & x_{22} & \ldots \\
 $$
 
 
-![your-UML-diagram-name](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/nokomprendo/pages-test/master/example.iuml)
+![your-UML-diagram-name](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/nokomprendo/pages-test/main/exemple.iuml)
 
 
 [source code](https://github.com/nokomprendo/pages-test)
