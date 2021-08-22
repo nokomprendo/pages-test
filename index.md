@@ -1,4 +1,4 @@
-# My Github Pages test
+## Home
 
 - [Introduction](intro.md)
 - [Conclusion](conclu.md)
